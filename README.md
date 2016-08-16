@@ -1,8 +1,16 @@
-# HelloNewBee
-I am a new bee in django, say hello to myself
+# HelloNewbe
+思量再三，还是决定用中文来写
 
-my first website in django, maybe include some apps like:
-1. blog(with markdown)
-2. remember some password for me
-3. record all words I don't know before
-4. and so on
+当大多数程序员在使用“Hello World！”跟任何一门新学的语言或者框架打招呼时，我却只能默默的敲出“Hello
+Newbe！”，翻译成中文就是：“你好，菜鸟！”
+
+以前在csdn写博客，断断续续写了三年，共计70篇左右原创博客，偶尔翻看，发现漏洞百出，考虑到别人的网站终究还是别人的，作为程序员，我应该有一个属于自己的网站
+
+期间也尝试过使用开源软件自己搭建一个，比如：wordpress，反正很难找到一个自己完全满意的
+除了博客，我还有许多许多的事情，我都想把他们实现出来，自己作为第一个用户，计划完成如下功能：
+1. 博客（支持MarkDown）
+2. 健身管理（以图表的形式展示每天锻炼的量）
+3. 生词管理（记录工作或者学习中遇到的所有生词，每天可以随机的复习，复习通过的可以加入到已掌握词库中）
+4. 账本
+5. 规划
+以上，共计五个功能
